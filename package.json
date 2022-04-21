@@ -1,0 +1,11 @@
+{
+  "name": "perspective-playground",
+  "version": "1.0.0",
+  "description": "use to get the right perpective for your square",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Chibuogwu Eyinchukwu",
+  "license": "ISC"
+}
